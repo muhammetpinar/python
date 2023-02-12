@@ -1,0 +1,1 @@
+In machine learning and natural language processing, topic modeling is a type of statistical model for discovering abstract subjects that appear in a collection of documents. Topic modeling is a text mining tool frequently used for discovering hidden semantic structures in body text. 
