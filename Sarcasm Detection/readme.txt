@@ -1,2 +1,1 @@
-Sarcasm has been part of languages for many years. It means being the opposite of what you mean, usually with a distinct tone of voice in a fun way. If you think that anyone can understand sarcasm, then you are wrong, because understanding sarcasm depends on your language skills and your knowledge of other people’s minds.
-For this projects, I made Sarcasm Detection with Machine Learning using Python.
+
